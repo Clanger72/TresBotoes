@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tresBotoes</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="texto_um">Texto um</string>
+    <string name="texto_dois">Texto dois</string>
+    <string name="texto_tres">Texto três</string>
+</resources>
